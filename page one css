@@ -94,8 +94,12 @@ body{
     background-color: #ff0000;
     border: 2px solid #ffffff;
     border-radius: 15px ;
+
 }
 .log-in:hover{
+    width: 79px;
+    height: 35px;
+    background-color: #ff3838;
 
 }
 .part{
@@ -136,7 +140,7 @@ body{
     
 }
 .prodoie img{  
-    margin: 15px 20px; 
+    margin: 15px 20px 0; 
     width: 270px;
     height: 180px;
     border: 0px solid #000000;
@@ -144,19 +148,41 @@ body{
     
 }
 .prodoie .name{
-    
+    text-align: center;
     margin: 0 5px 5px 0;
     font-size: 18px;
 }
 .cach{
-
-
+    font-size: 22px;
+    margin: 20px 30px 10px ;
+}
+.prodoie div{
+    display: flex;
+    justify-content: space-between;
+}
+.bay{
+    font-size: 20px;
+    color: #0e3567;
+    background-color: #ccc;
+    border: 1px solid #0e3567;
+    border-radius: 15px;
+    margin: auto 20px ;
+    padding: 10px;
+}
+.sey{
+    font-size: 20px;
+    color: #0e3567;
+    background-color: #ccc;
+    border: 1px solid #0e3567;
+    border-radius: 15px;
+    margin: auto 20px ;
+    padding: 10px;
 }
 .medel{
     width: 96%;
     display: flex;
     justify-content: space-between;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
 }
 
 .cut1{
