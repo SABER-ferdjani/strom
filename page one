@@ -33,21 +33,25 @@
                         
                     </div>
                 
-                    <input class="log-in" type="button" value="log/segn in" />
+                    <input class="log-in" type="button" value="log/sign in" />
                 </div>
 
                 
             </header> 
              <br>
             <div class="part">      <!-- الاقسام --> 
-                      <a href="#">a1</a>  
-                      <a href="#">a2</a> 
-                      <a href="#">a3</a> 
-                      <a href="#">a4</a> 
-                      <a href="#">a5</a> 
+                      <a href="#">phones</a>  
+                      <a href="#">Tablets</a> 
+                      <a href="#">watches</a> 
+                      <a href="#">speakers</a> 
+                      <a href="#">Laptops</a> 
+                      <a href="#">Smart TVs</a>
+                      <a href="#">consols</a>
             </div>
                 <hr>
-            <div class="medel">|
+
+<!--                 
+            <div class="medel">
                 <div class="cut">
                        <div class="cut1">
 
@@ -84,6 +88,7 @@
                             <img class="img" src="سماعة remax بلوتوث.jpeg" alt="pro">
                             <div>
                                 <p class="name">head phon</p>
+
                                 <p class="cach">6</p>
                             </div>   
                                 
@@ -101,22 +106,28 @@
                     
                     <i class='bx bx-right-arrow-alt' ></i>
                 </div>
-            </div>
+            </div>  -->
+           
 
-
-<!-- 
+ 
         <div class="prodoie-part">
             <div class="prodoie">
-                <img class="img" src="8GB Spotify Flash Drive_ Flash drive folds into a protective aluminum cover_.jpeg" alt="pro">
+                <img class="img" src="strom.png" alt="pro">
+            
                 <p class="name">Flash</p>
-                <p class="cach">5</p>
+                <hr>
+                <p class="cach">10$</p>
+                 <div>
+                    <button class="bay">bay <i class='bx bxs-cart'></i></button>
+                    <button class="sey">sey the prod</button>
+                </div>
             </div>
 
             <div class="prodoie">
                 <img class="img" src="سماعة remax بلوتوث.jpeg" alt="pro">
                 <div>
                     <p class="name">head phon</p>
-                    <p class="cach">6</p>
+                    <p class="cach">6$</p>
                 </div>   
                     
             </div>  
@@ -126,7 +137,7 @@
                 
                 <div>
                     <p class="name">caver</p>
-                    <p class="cach">15</p>
+                    <p class="cach">15$</p>
                 </div>  
             </div>  
 
@@ -134,7 +145,7 @@
                 <img  src="Spotify Notebook with Logo Debossed.jpeg" alt="pro">
                 <div>
                     <p class="name">caver</p>
-                    <p class="cach">15</p>
+                    <p class="cach">15$</p>
 
                 </div>   
                 
@@ -143,7 +154,7 @@
                 <img src="download" alt="pro">
                 <div>
                     <p class="name">head</p>
-                    <p class="cach">55</p>
+                    <p class="cach">55$</p>
                 </div>  
                 
             </div>
@@ -151,10 +162,10 @@
                 <img src="Apple Watch" alt="pro">
                 <div>
                     <p class="name">name</p>
-                    <p class="cach">cash</p>
+                    <p class="cach">20$</p>
                 </div>
             </div>      
-        </div> -->
+        </div> 
 
             
 
