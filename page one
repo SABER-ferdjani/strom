@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <title>strom shoop</title>
+        <meta name="description" content="" /> <!-- ba3den -->
+        <link rel="stylesheet" href="stayl-page.css" />
+        <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+            
+    </head>
+    <body>
+            <header>
+                <div class="heder">
+                    <img class="logo" src="storm.jpg" alt="logo" width="200" height="200">
+                    
+                    <div > 
+                        
+                        <div class="serh">
+                            
+                            <button type="submit" class="q"><i class ='bx bx-search'></i> </button>
+                            <input type="text" placeholder="search...">
+                            <button type="submit"  class="x"><i class='bx bx-x'></i></button>
+                            
+                        </div>
+                        <div class="list">
+                            
+                            <a href="#"><i class='bx bxs-home-alt-2'></i></a> 
+                            <a href="#"><i class='bx bx-package'></i></a>
+                            <a href="#"><i class='bx bxs-extension' ></i></a>
+                            <a href="#"><i class='bx bx-headphone'></i></a>
+                        
+                        </div>
+                        
+                    </div>
+                
+                    <input class="log-in" type="button" value="log/segn in" />
+                </div>
+
+                
+            </header> 
+             <br>
+            <div class="part">      <!-- الاقسام --> 
+                      <a href="#">a1</a>  
+                      <a href="#">a2</a> 
+                      <a href="#">a3</a> 
+                      <a href="#">a4</a> 
+                      <a href="#">a5</a> 
+            </div>
+                <hr>
+            <div class="medel">|
+                <div class="cut">
+                       <div class="cut1">
+
+                       </div>
+                       <div class="cut2">
+
+                       </div>
+                </div>
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="add">
+                    <i class='bx bx-left-arrow-alt'></i>
+                    
+                    <div>
+                        <div class="prodoie">
+                            <img class="img" src="8GB Spotify Flash Drive_ Flash drive folds into a protective aluminum cover_.jpeg" alt="pro">
+                            <div>
+                                <p class="name">Flash</p>
+                                <p class="cach">5</p>
+                            </div>
+                        </div> 
+                        
+                        <div class="prodoie">
+                            <img class="img" src="سماعة remax بلوتوث.jpeg" alt="pro">
+                            <div>
+                                <p class="name">head phon</p>
+                                <p class="cach">6</p>
+                            </div>   
+                                
+                        </div> 
+
+                        <div class="prodoie">
+                            <img  src="Trendy Brand Soft Cartoon Case hp ITEL A70 S23 RS4 Infinix GT 20 Pro Infinix Smart 8 Zero 30 5g Hot 40 Pro Note 30 Pro Hot 30i Hot 20s 11s 20i Hot 12 Play 12 11 10 Fantasy Kasing Hp Infinix Note 12 Doraemo.jpeg" alt="pro">
+                            
+                            <div>
+                                <p class="name">caver</p>
+                                <p class="cach">15</p>
+                            </div>  
+                        </div>
+                    </div>
+                    
+                    <i class='bx bx-right-arrow-alt' ></i>
+                </div>
+            </div>
+
+
+<!-- 
+        <div class="prodoie-part">
+            <div class="prodoie">
+                <img class="img" src="8GB Spotify Flash Drive_ Flash drive folds into a protective aluminum cover_.jpeg" alt="pro">
+                <p class="name">Flash</p>
+                <p class="cach">5</p>
+            </div>
+
+            <div class="prodoie">
+                <img class="img" src="سماعة remax بلوتوث.jpeg" alt="pro">
+                <div>
+                    <p class="name">head phon</p>
+                    <p class="cach">6</p>
+                </div>   
+                    
+            </div>  
+
+            <div class="prodoie">
+                <img  src="Trendy Brand Soft Cartoon Case hp ITEL A70 S23 RS4 Infinix GT 20 Pro Infinix Smart 8 Zero 30 5g Hot 40 Pro Note 30 Pro Hot 30i Hot 20s 11s 20i Hot 12 Play 12 11 10 Fantasy Kasing Hp Infinix Note 12 Doraemo.jpeg" alt="pro">
+                
+                <div>
+                    <p class="name">caver</p>
+                    <p class="cach">15</p>
+                </div>  
+            </div>  
+
+            <div class="prodoie">
+                <img  src="Spotify Notebook with Logo Debossed.jpeg" alt="pro">
+                <div>
+                    <p class="name">caver</p>
+                    <p class="cach">15</p>
+
+                </div>   
+                
+            </div>          
+            <div class="prodoie">
+                <img src="download" alt="pro">
+                <div>
+                    <p class="name">head</p>
+                    <p class="cach">55</p>
+                </div>  
+                
+            </div>
+            <div class="prodoie">
+                <img src="Apple Watch" alt="pro">
+                <div>
+                    <p class="name">name</p>
+                    <p class="cach">cash</p>
+                </div>
+            </div>      
+        </div> -->
+
+            
+
+            <div class="foter">                       <!-- البلاصة الفضية في الاسفل فيها الخدمة وحسابات الاونلاين وتعريف للستروم (; -->
+                    <ul>  <h3> hhhhhh</h3>
+                         
+                        <li>
+                            hhhhhh 
+                        </li>
+
+                        <li>
+                            hhhhhh
+                        </li>
+
+                        <li>
+                            hhhhhhh
+                         </li>
+                     
+                    </ul>
+
+                    <ul>  <h3> hhhhhh</h3>
+                         
+                        <li>
+                            hhhhhh 
+                        </li>
+
+                        <li>
+                            hhhhhh
+                        </li>
+
+                        <li>
+                            hhhhhhh
+                         </li>
+                     
+                    </ul>
+
+                    <ul>  <h3> hhhhhh</h3>
+                         
+                        <li>
+                            hhhhhh 
+                        </li>
+
+                        <li>
+                            hhhhhh
+                        </li>
+
+                        <li>
+                            hhhhhhh
+                         </li>
+                     
+                    </ul>
+            </div>
+    </body>
+</html>
