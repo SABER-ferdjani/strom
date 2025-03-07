@@ -1,7 +1,7 @@
 body{
     padding: 0;
     margin: 110px 0 0 0;
-    
+    font-family:monospace,sans-serif;
 }
 .heder{
     width: 100%;
@@ -161,7 +161,7 @@ body{
     justify-content: space-between;
 }
 .bay{
-    font-size: 20px;
+    font-size: 13px;
     color: #0e3567;
     background-color: #ccc;
     border: 1px solid #0e3567;
@@ -170,7 +170,7 @@ body{
     padding: 10px;
 }
 .sey{
-    font-size: 20px;
+    font-size: 13px;
     color: #0e3567;
     background-color: #ccc;
     border: 1px solid #0e3567;
@@ -227,40 +227,13 @@ body{
     border: 1px solid #000;
     border-radius: 50% ;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .foter{
-    background-color: #000;
+    background-color: #202020;
     color: white;
     margin-bottom: 0 ;
     display: flex;
     justify-content: space-around;
+    width: 100vw;
     
 }
 ul{
